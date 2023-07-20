@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm `Chris Vo && Việt Tú` ✨
 
 - 💼 Daily learning & working with `TypeScript`, `JavaScript`, `React`, and `Tailwind`.
-- 🎮 Sometime can catch me making game C# (_Unity_) for gaming development
+- 🎮 Sometime can catch me making game `C#` (_Unity_) for gaming development
 - 🌱 On-boarding a learning path in `Artificial Intelligence` but with `Java`
 - 💬 We can talk about `Java`, `JavaScript`, `TypeScript`, `React`, `C#` and any AI related topics
 - ⚡ Random facts:
