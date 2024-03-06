@@ -33,7 +33,7 @@ I'm `Chris || Viet-Tu` ✨
 - Mess around with circuit board of musical toys
 
 ### ＠ Socials
-* email <img width="147" alt="image" src="https://github.com/chrisvo81/chrisvo81/assets/20401958/35232145-d051-4085-8379-31ec5fe5fd7f">
+* email <img style="pointer-events: none;" width="147" alt="email info" src="https://github.com/chrisvo81/chrisvo81/assets/20401958/35232145-d051-4085-8379-31ec5fe5fd7f">
 * linkedin [@chrisvo3](https://www.linkedin.com/in/chrisvo3/)
 
 **"Keep on learning"**
