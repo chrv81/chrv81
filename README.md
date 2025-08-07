@@ -8,6 +8,7 @@ I'm `Chris || Viet-Tu` ✨
 * [PerScholas's Java Development Program](https://perscholas.org/courses/full-stack-java-developer/full-stack-java-developer-powered-by-teksystems-philly/) (November 2019 - March 2020)
   * Focus on Java (Maven), Spring boot, SQL (MariaDB)
 * [Cybersoft's NodeJS Program](https://cybersoft.edu.vn) (July 2025 - Present)
+  * NodeJS, ExpressJS, MySQL, TablePlus, Docker, NestJS, NextJS, Prisma, Sequelize
 
 ### 💼 Technical Aspects
 - Daily learning & working with `JavaScript`/`TypeScript` and `React`
